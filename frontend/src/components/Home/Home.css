@@ -1,0 +1,30 @@
+
+.Home{
+    background: url('../../Assets/Images/background.jpeg');
+    height: 30rem;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+
+
+}
+.overtext{
+    font-weight: 300;
+    width: 100%;
+    /* height: 100%; */
+    top: 50%;
+    position: absolute;
+    text-align: center;
+    letter-spacing: normal;
+    font-size: 2rem;
+
+}
+.socialMediaIcons{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 1rem;
+    
+}

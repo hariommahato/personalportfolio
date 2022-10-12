@@ -1,0 +1,17 @@
+.dashboardMainContainer{
+    border:1px solid red;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+}
+.outletContainer{
+    background-color: bisque;
+    flex:1;
+}
+.dashboardLinkContainer{
+    /* flex: */
+    background-color:coral;
+    border: 3px solid green;
+    display: flex;
+    flex-direction: column;
+}

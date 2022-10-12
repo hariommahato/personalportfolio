@@ -1,0 +1,13 @@
+.whatidoContainer{
+    /* border: 10px solid red; */
+    width: 80%;
+    margin: auto;
+    margin-top: 4rem;
+}
+.speacializeSkillContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+.border-none{
+    border: none;
+}

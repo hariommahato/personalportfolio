@@ -1,0 +1,18 @@
+.mainContainerAbout{
+    /* border: 1px solid rebeccapurple; */
+    width: 70%;
+    margin:auto;
+    margin-top: 2rem;
+}
+.imgDiv{
+    background: url('../../Assets/Images/background.jpeg');
+    background-size: cover;
+    height:15rem;
+}
+.descriptionHolder{
+    background:transparent;
+    border: none;
+}
+.descriptionHolderTitle{
+    color:blue;
+}

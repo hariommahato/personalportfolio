@@ -1,0 +1,23 @@
+.latestProjectContainer{
+    width: 80%;
+    margin: auto;
+    margin-top: 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    /* border: 1px solid red; */
+}
+.border-none{
+    border: none;
+}
+.latestProjectCardGroup{
+    display: flex;
+    flex-wrap: wrap;
+}
+.border{
+    border: 1px solid red;
+}
+.buttons{
+    color: purple;
+    /* border: purple; */
+}

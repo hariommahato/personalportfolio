@@ -1,0 +1,14 @@
+.contactContainer{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+ 
+}.contactContainer h1{
+    font-size: 2rem;
+}
+.contactForm{
+    width: 70%;
+}
